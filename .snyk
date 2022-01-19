@@ -4,22 +4,22 @@ version: v1.22.1
 ignore:
   SNYK-JS-CSSWHAT-1298035:
     - '*':
-        reason: no known entry point for this vulnearbilty to be reached
-        expires: 2022-01-09T13:28:36.959Z
-        created: 2021-12-10T13:28:36.962Z
+        reason: Unreachable as tool is used for static site generation
+        created: '2022-01-18T14:54:43.796Z'
+        expires: '2022-04-18T14:54:43.796Z'
+  SNYK-JS-NODEFETCH-2342118:
+    - '*':
+        reason: Unreachable as tool is used for static site generation
+        created: '2022-01-18T14:54:43.796Z'
+        expires: '2022-04-18T14:54:43.797Z'
   SNYK-JS-NTHCHECK-1586032:
     - '*':
-        reason: no known entry point for this vulnearbilty to be reached
-        expires: 2022-01-09T13:28:55.027Z
-        created: 2021-12-10T13:28:55.040Z
-  SNYK-JS-PATHPARSE-1077067:
-    - '*':
-        reason: no known entry point for this vulnearbilty to be reached
-        expires: 2022-01-09T13:29:04.127Z
-        created: 2021-12-10T13:29:04.159Z
+        reason: Unreachable as tool is used for static site generation
+        created: '2022-01-18T14:54:43.796Z'
+        expires: '2022-04-18T14:54:43.797Z'
   SNYK-JS-TRIM-1017038:
     - '*':
-        reason: no known entry point for this vulnearbilty to be reached
-        expires: 2022-01-09T13:29:13.105Z
-        created: 2021-12-10T13:29:13.115Z
+        reason: Unreachable as tool is used for static site generation
+        created: '2022-01-18T14:54:43.796Z'
+        expires: '2022-04-18T14:54:43.797Z'
 patch: {}
